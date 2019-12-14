@@ -1,5 +1,5 @@
 # SeniorDesign
-Senior Design Project 2019
+## Project 2019
 (Thomas) Zack Sullivan
 
 1. [Abstract](https://github.com/sullivtz/SeniorDesign/blob/master/Abstract.md)
