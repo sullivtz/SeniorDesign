@@ -1,4 +1,4 @@
-# SeniorDesign
+# Senior Design
 ## Project 2019
 (Thomas) Zack Sullivan
 
