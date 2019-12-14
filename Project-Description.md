@@ -4,9 +4,10 @@
 * Thomas Sullivan - sullivtz@mail.uc.edu
 * Devon Saccocio - saccocdn@mail.uc.edu
 * Justin Boamah - boamahjn@mail.uc.edu
+* Matt Lombardi
 
 ## Faculty Advisor:
-* TBD
+* Professor Ashley Paz y Puente
 
 ## Project Background Description: 
 
@@ -26,6 +27,9 @@ There are no inexpensive, simple, and portable adaptations of HCUs available in 
   * Solidworks design experience
   * HCU work experience
   * Mechanical component experience
+* Matt Lombardi:
+  * Mechanical engineering experience
+  * 3D printing experience
 * Justin Boamah:
   * HCU work experience
   * Electrical board, wiring, and component design experience
