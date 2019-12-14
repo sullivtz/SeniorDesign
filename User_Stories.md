@@ -8,11 +8,11 @@
 
 ## Design Level D0:
 
-https://github.com/sullivtz/SeniorDesign/blob/master/D0.png
+![](https://github.com/sullivtz/SeniorDesign/blob/master/D0.png)
 
 ## Design Level D1:
 
-
+![](https://github.com/sullivtz/SeniorDesign/blob/master/D1.png)
 
 ## Design Level D2:
 
