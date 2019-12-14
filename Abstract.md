@@ -2,7 +2,7 @@
 
 ## Team Members:
 
-* Thomas Sullivan
+* (Thomas) Zack Sullivan
 * Devon Saccocio
 * Justin Boamah
 * Matt Lombardi
