@@ -1,7 +1,7 @@
 # Project: Small Heater/Cooler Unit
 
 ## Members:
-* Thomas Sullivan - sullivtz@mail.uc.edu
+* (Thomas) Zack Sullivan - sullivtz@mail.uc.edu
 * Devon Saccocio - saccocdn@mail.uc.edu
 * Justin Boamah - boamahjn@mail.uc.edu
 * Matt Lombardi
@@ -19,7 +19,7 @@ There are no inexpensive, simple, and portable adaptations of HCUs available in 
   * Current solutions are bulky, expensive, and overly complicated for many use-cases.
   
 ## Applicable Skills and Interests:
-* Thomas Sullivan:
+* Zack Sullivan:
   * Microcontroller programming
   * C++ experience
   * Electrical component and wiring experience
