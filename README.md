@@ -8,5 +8,4 @@ Senior Design Project 2019
 4. [Project Tasks and Timeline](https://github.com/sullivtz/SeniorDesign/blob/master/Tasklist.md)
 5. [Presentation](https://github.com/sullivtz/SeniorDesign/blob/master/SeniorDesign.pptx)
 6. [Professional Biography](https://github.com/sullivtz/SeniorDesign/blob/master/Professional%20Biography.md)
-7. [Budget](https://github.com/sullivtz/SeniorDesign/blob/master/Budget.md)
-8. 
+7. [Budget](https://github.com/sullivtz/SeniorDesign/blob/master/Budget.md) 
